@@ -1,0 +1,6 @@
+{
+  "name": "SolveX",
+  "description": "An activity-aware business approval, documentation, and compliance AI platform for Indian entrepreneurs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
